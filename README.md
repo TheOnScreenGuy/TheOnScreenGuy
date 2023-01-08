@@ -1,5 +1,5 @@
 - 👋 Hi @TheOnScreenGuy here!
-- 👀 Web dev | Full stack | Wordpress dev 
+- 👀 Web Dev | Full Stack | WordPress | Content Writer
 - 🌱 Learning PHP currently
 - 💞️ Looking to collaborate on Javascript programs
 - 📫 My Insta id @mnkgup 
